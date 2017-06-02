@@ -1,0 +1,32 @@
+From file 1 to 8:
+
+    Rootword Count: 13717	     RootWord Tag Total: 10341
+    ReferenceCount: 1824	    Reference Tag Total: 1808
+PronunciationCount: 10776	Pronunciation Tag Total: 8476
+          PosCount: 8444	          Pos Tag Total: 8444
+      MeaningCount: 16479	      Meaning Tag Total: 8455
+
+From file 9 to 16:
+
+ RootwordCount Total: 	14449	     RootWord Tag Total: 10582
+ReferenceCount Total: 	1635	    Reference Tag Total: 1628
+     PronCount Total: 	11363	Pronunciation Tag Total: 8872
+      PosCount Total: 	8846		  Pos Tag Total: 8846
+     MeanCount Total: 	18146	      Meaning Tag Total: 8857
+
+From file 17 to 20:
+
+    Rootword Count: 7285	     RootWord Tag Total: 5460
+    ReferenceCount: 986		    Reference Tag Total: 950
+PronunciationCount: 5625	Pronunciation Tag Total: 4490
+          PosCount: 4482	          Pos Tag Total: 4482
+      MeaningCount: 9069	      Meaning Tag Total: 4486
+
+From file 21 to 24:
+
+    Rootword Count: 7830	     RootWord Tag Total: 5970
+    ReferenceCount: 848		    Reference Tag Total: 838
+PronunciationCount: 6310	Pronunciation Tag Total: 5103
+          PosCount: 5096	          Pos Tag Total: 5096
+      MeaningCount: 9668	      Meaning Tag Total: 5095
+ 
